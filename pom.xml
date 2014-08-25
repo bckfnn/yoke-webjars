@@ -20,7 +20,7 @@
 	</licenses>
 	<scm>
 		<connection>scm:git:https://github.com/bckfnn/yoke-webjars.git</connection>
-		<developerConnection>scm:git:https://github.com/bckfnn/yoke-webjars.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:bckfnn/yoke-webjars.git</developerConnection>
 		<url>https://github.com/bckfnn/yoke-webjars.git</url>
 	  <tag>HEAD</tag>
   </scm>
@@ -28,7 +28,6 @@
 		<developer>
 			<id>bckfnn</id>
 			<name>Finn Bock</name>
-			<email>bckfnn@gmail.com</email>
 		</developer>
 	</developers>
 
